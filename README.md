@@ -9,4 +9,4 @@
 ### :man_technologist: Languages and Tools :
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :mailbox:How to reach me: [![Linkedin Badge](https://awtolub.ru/wp-content/uploads/2020/09/telegram.png)](https://t.me/seleznevladislav)
+- :mailbox:How to reach me: [![Linkedin Badge](https://do-slez.com/templates/time/images/tg.png)](https://t.me/seleznevladislav)
