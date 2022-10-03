@@ -6,8 +6,6 @@
   </h1>
 </div>
 
----
-
 ### :man_technologist: About Me :
 
 - 🧔: I am a Frontend Developer from ⚪🔵🔴 
