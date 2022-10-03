@@ -12,5 +12,5 @@
 ### :man_technologist: Languages and Tools :
 
 - 🧔: I am a Frontend Developer from ⚪🔵🔴 
-- 📚: Moscow Polytechnic University 24'.
+- 📚: I study at the Moscow Polytechnic University 24'.
 - 📫: How to reach me: [![telegram_logo_icon_144811](https://user-images.githubusercontent.com/81052282/193556983-9327bdc0-ff81-43c0-a7e9-415e923a0951.svg)](https://t.me/seleznevladislav)
