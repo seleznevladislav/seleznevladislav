@@ -8,4 +8,4 @@
 
 ### :man_technologist: Languages and Tools :
 
-I am a Frontend Developer ![telegram_logo_icon_144811](https://user-images.githubusercontent.com/81052282/193556287-a38b87ab-57c0-4ba5-a26a-32769bd23407.png)(https://t.me/seleznevladislav)
+I am a Frontend Developer [![telegram_logo_icon_144811](https://user-images.githubusercontent.com/81052282/193556287-a38b87ab-57c0-4ba5-a26a-32769bd23407.png)](https://t.me/seleznevladislav)
